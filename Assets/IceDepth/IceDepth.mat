@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: IceDepth
+  m_Shader: {fileID: -6465566751694194690, guid: d2ee6b31b84a7324e9c46bc505440230,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_29A5681E:
+        m_Texture: {fileID: 2800000, guid: 3e98722efe74f814e881e033881a6f6e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_D2CF71AE:
+        m_Texture: {fileID: 2800000, guid: e19f34f051374254fa5b58288f07b2c4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CustomFunction_6325C2A0_NormMap_7:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CustomFunction_A38226D5_NormTex_9:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_305AC112_Texture_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_3FA8E62E: 1
+    - Vector1_A62134B9: -0.01
+    - Vector1_BB0EF306: 0.463
+    - Vector1_C1EE75B9: 0.43
+    - Vector1_D33DF1DF: 24
+    - Vector1_E1181778: 0
+    - Vector1_E25E865: 0.636
+    - Vector1_F568F0D1: 0.01
+    m_Colors:
+    - Color_D645BEA: {r: 0.5254539, g: 0.83127224, b: 0.9056604, a: 0}
+    - Color_FDA6DB4A: {r: 1, g: 1, b: 1, a: 0}
+    - Vector3_1903B01: {r: 0.7, g: 0.7, b: 2, a: 1}
+    - Vector4_133A9D3B: {r: 0, g: 0, b: 0, a: 0}
